@@ -98,31 +98,3 @@ void Menu() {
 
 }
 
-// void loading() {
-
-// 	system("clear");
-//     //std::cout << "\033[32;44m"; 
-// 	system("color 9F");
-	
-// 	char a = 177, b = 219;
-
-// 	std::cout<<"\n\n\n\n\n\t\t\t\t\tStudent's Data Management System";
-// 	std::cout<<"\n\t\t\t\t\tProject By Beza Tezera";
-// 	std::cout<<"\n\n\n\t\t\t\t\tLoading...\n";
-// 	std::cout << std::endl;
-// 	std::cout<<"\t\t\t\t\t";
-	
-// 	for(int i = 0; i < 26; i++)
-
-// 	    std::cout << a;
-    
-// 	std::cout<<"\r";
-// 	std::cout<<"\t\t\t\t\t";
-
-// 	for(int i = 0; i < 26 ; i++){
-
-// 		std::cout << b;
-// 		std::this_thread::sleep_for(std::chrono::milliseconds(200));
-// 	}
-	
-// }
