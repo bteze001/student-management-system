@@ -13,3 +13,9 @@ The student Record Management System is a terminal-based c++ project designed to
 - **Update Student Information:** Modify student information, such as their name, ID, or grade.
 - **User-Friendly Console Interface:** Utilize a straightforward console interface for data entry and retrieval.
 - **Modular System Architecture:** The project demonstrates strong problem-solving skills through a modular system architecture.
+  
+> Authors: \<[Jonathan Chun](https://github.com/jchun183)\>
+>           \<[Jacqueline Aguirre](https://github.com/jagui237)\>
+>           \<[Ivan Nguyen](https://github.com/Idrago1)\>
+>            \<[Beza Tezzera](https://github.com/bteze001)\>
+
